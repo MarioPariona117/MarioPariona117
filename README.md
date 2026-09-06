@@ -1,18 +1,14 @@
-# Hi, I'm Mario Pariona 👋
+### Mario Pariona
 
-Computer Science graduate (**University of Cambridge**, Trinity College) working on **software performance, ML systems, and computer architecture**. Currently a Research Software Engineer at Camtech Innovations.
+Computer Science graduate (University of Cambridge), currently a Research Software
+Engineer at Camtech Innovations. Interested in software performance, ML systems, and
+computer architecture.
 
-I like turning *"it's slow"* into *"here's the bottleneck, and here's the fix"* — measure, profile, then optimise.
+A couple of things here:
 
-### 🔧 Featured work
+- **[llm-inference-benchmark](https://github.com/MarioPariona117/llm-inference-benchmark)** — a small harness for measuring LLM inference latency, throughput, and memory across batch size, precision, and hardware, with operator-level profiling.
+- **[Blokus](https://github.com/MarioPariona117/Blokus)** — my Cambridge dissertation (First Class): a fast RL environment and agents (Minimax/Alpha-Beta, DQN) for the board game.
 
-- **[LLM Inference Performance Benchmark](https://github.com/MarioPariona117/llm-inference-benchmark)** — a reproducible harness measuring LLM inference **latency, throughput, and memory** across batch size, precision (fp16/fp32), and hardware (CPU/GPU), with `torch.profiler` operator-level profiling and Perfetto traces. Includes a plain-English guide to the concepts.
-- **[Reinforcement Learning for Blokus](https://github.com/MarioPariona117/Blokus)** — my **First-Class** Cambridge dissertation: a fast Gymnasium environment (novel bitmask move-generation, profiled with cProfile/tracemalloc), plus Minimax / Alpha-Beta and Deep Q-Network agents in PyTorch.
-
-### 🧰 Tools
-
-`Python` · `C / C++` · `PyTorch` · profiling & benchmarking (`torch.profiler`, `cProfile`, Perfetto) · `Linux` · SystemVerilog / RISC-V (coursework) · `TypeScript`
-
-### 🔗 Links
+Mostly Python, C/C++, and PyTorch, on Linux.
 
 [Portfolio](https://mariopariona117.github.io) · [LinkedIn](https://www.linkedin.com/in/mario-pariona-molocho-67574b207)
