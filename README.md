@@ -11,4 +11,4 @@ A couple of things here:
 
 Mostly Python, C/C++, and PyTorch, on Linux.
 
-[Portfolio](https://mariopariona117.github.io) · [LinkedIn](https://www.linkedin.com/in/mario-pariona-molocho-67574b207)
+[mariopariona.com](https://mariopariona.com) · [LinkedIn](https://www.linkedin.com/in/mario-pariona-molocho-67574b207)
